@@ -1,0 +1,77 @@
+
+        img {
+            position: absolute;
+        }
+
+        .imgA1 {
+            z-index: 1;
+        }
+
+        .imgB1 {
+            z-index: 2;
+            left: 750;
+            text-align: center;
+        }
+
+        .centered {
+            position: relative;
+            text-align: center;
+            top: 50;
+            font-size: 24pt;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+
+        .green {
+            position: relative;
+            top: 70;
+            left: 200;
+        }
+
+        .kings {
+            position: relative;
+            top: 70;
+            left: 1070;
+        }
+
+        .pp {
+            position: absolute;
+            top: 570;
+            left: 1100;
+            font-size: 30;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .pp2 {
+            position: absolute;
+            top: 140;
+            left: 700;
+            font-size: 90;
+            color: red;
+        }
+
+
+        .main {
+            position: absolute;
+            background-color: rgb(182, 182, 182);
+            top: 400;
+            right: 810;
+            left: 210;
+            width: 840;
+            padding: 10;
+        }
+
+        .chat {
+            background-color: rgb(255, 255, 255);
+            border-radius: 10px;
+            box-shadow: 1px 1px 1px 1px #88888888;
+            padding: 10px;
+        }
+
+        .page {
+            background-color: rgb(182, 182, 182);
+            position: absolute;
+            top: 2170;
+            right: 810;
+            left: 210;
+            width: 1570;
+        }
